@@ -1,0 +1,224 @@
+# DISCOVERY QUESTIONS MASTERY GUIDE
+
+## The Purpose of Discovery
+
+Discovery is not interrogation - it's a strategic conversation to:
+1. Uncover pain points the prospect may not even recognize
+2. Understand their business context and priorities
+3. Build trust and rapport
+4. Qualify the opportunity
+5. Create urgency for change
+6. Position your solution as the obvious choice
+
+## Discovery Framework: BANT-C
+
+### Budget
+- "What's your budget for solving this problem?"
+- "What's the cost of not solving this issue?"
+- "How do you typically evaluate ROI on solutions like this?"
+- "Who controls the budget for this initiative?"
+
+### Authority
+- "Who else is involved in this decision?"
+- "Walk me through your decision-making process"
+- "What does final approval look like?"
+- "Who else would need to sign off on this?"
+
+### Need
+- "What prompted you to look for a solution now?"
+- "How is this problem impacting your business?"
+- "What happens if you don't address this?"
+- "What's the urgency - why now?"
+
+### Timeline
+- "When do you need this implemented?"
+- "What's driving your timeline?"
+- "What are the consequences of delaying?"
+- "When do you need to see results?"
+
+### Competition
+- "What other solutions are you considering?"
+- "How are you currently handling this?"
+- "What would make you choose one vendor over another?"
+- "What's your experience with similar solutions?"
+
+## The SPIN Selling Framework
+
+### Situation Questions (Set the Stage)
+- "Tell me about your current process for..."
+- "How many people are on your team?"
+- "What systems are you using today?"
+- "How long have you been facing this challenge?"
+
+**Goal**: Understand their current state
+
+### Problem Questions (Uncover Pain)
+- "What challenges are you experiencing with your current approach?"
+- "Where do you see the biggest bottlenecks?"
+- "What keeps you up at night about this?"
+- "What's frustrating about your current solution?"
+
+**Goal**: Identify explicit pain points
+
+### Implication Questions (Amplify Pain)
+- "How does this problem affect your team's productivity?"
+- "What's the financial impact of this issue?"
+- "If this continues, what happens in 6 months?"
+- "How is this affecting your customer satisfaction?"
+
+**Goal**: Make pain more urgent and significant
+
+### Need-Payoff Questions (Paint the Vision)
+- "If you could solve this, what would that mean for your business?"
+- "How would your team benefit from this improvement?"
+- "What would success look like 6 months from now?"
+- "How would this impact your quarterly goals?"
+
+**Goal**: Get prospect to articulate value themselves
+
+## Advanced Discovery Techniques
+
+### The Negative Reverse
+Instead of pushing, pull back:
+- "This might not be a fit for you because..."
+- "I'm not sure we can help if..."
+- **Effect**: Lowers resistance, makes prospect sell themselves
+
+### The Columbo Technique
+Act curious, not clever:
+- "I'm confused about something..."
+- "Help me understand..."
+- "One more thing I'm curious about..."
+- **Effect**: Disarms prospect, encourages openness
+
+### The Silent Close
+After asking a key question, **stop talking**. 
+- First person to speak loses.
+- Silence creates pressure to fill the void with truth.
+
+### The Layered Question
+Dig deeper with follow-ups:
+- Question 1: "What's your biggest challenge?"
+- Response: "We're losing deals to competitors"
+- Question 2: "Why do you think that's happening?"
+- Response: "Our sales cycle is too long"
+- Question 3: "What specifically is causing the delay?"
+- **Effect**: Moves from symptom to root cause
+
+## Industry-Specific Discovery Questions
+
+### B2B SaaS
+- "What's your customer acquisition cost?"
+- "How are you measuring user adoption?"
+- "What's your churn rate?"
+- "How does your team currently collaborate?"
+
+### Enterprise Sales
+- "What are your company's strategic priorities this year?"
+- "How does this fit into your digital transformation roadmap?"
+- "What compliance requirements do you need to meet?"
+- "What's your risk tolerance for new vendor relationships?"
+
+### Transactional Sales
+- "What's your current process costing you?"
+- "When do you need this delivered?"
+- "What's your decision criteria?"
+- "What would prevent you from moving forward today?"
+
+## Pain Point Discovery Map
+
+### Financial Pain
+- "What's this costing you monthly?"
+- "How much revenue are you leaving on the table?"
+- "What's your ROI on current solutions?"
+
+### Operational Pain
+- "How much time does your team spend on this?"
+- "What manual processes could be automated?"
+- "Where are the bottlenecks in your workflow?"
+
+### Strategic Pain
+- "How is this affecting your competitive position?"
+- "What opportunities are you missing because of this?"
+- "How does this impact your growth goals?"
+
+### Personal Pain (Decision Maker)
+- "How does this affect your day-to-day?"
+- "What would solving this mean for your team's morale?"
+- "How is this impacting your ability to hit your goals?"
+
+## Discovery Red Flags
+
+🚩 **They can't articulate the problem clearly** → Lack of urgency
+🚩 **They're vague about budget** → Not qualified
+🚩 **They won't introduce you to other stakeholders** → Not the decision maker
+🚩 **They focus only on price** → Commoditization risk
+🚩 **They're not asking questions back** → Low engagement
+🚩 **Timeline keeps slipping** → Not a priority
+
+## The 70/30 Rule
+
+In discovery, the prospect should talk 70% of the time, you 30%.
+
+**Your 30%**:
+- Asking questions
+- Clarifying responses
+- Sharing relevant insights
+- Building credibility
+
+**Their 70%**:
+- Explaining challenges
+- Sharing context
+- Revealing priorities
+- Selling themselves
+
+## Discovery Call Structure
+
+**Opening (5 min)**:
+- Build rapport
+- Set agenda
+- Confirm time available
+
+**Situation Assessment (10 min)**:
+- Current state questions
+- Context gathering
+- Stakeholder mapping
+
+**Pain Exploration (15 min)**:
+- Problem questions
+- Implication questions
+- Prioritization
+
+**Vision Creation (10 min)**:
+- Need-payoff questions
+- Success criteria
+- ROI discussion
+
+**Next Steps (5 min)**:
+- Summarize findings
+- Confirm fit
+- Schedule next meeting
+
+## Power Phrases for Discovery
+
+- "Tell me more about that..."
+- "What does that mean for your business?"
+- "Help me understand..."
+- "Walk me through..."
+- "What else should I know?"
+- "If you could wave a magic wand..."
+- "What am I not asking that I should be?"
+
+## Discovery Documentation
+
+After every discovery call, document:
+1. **Pain Points** (ranked by severity)
+2. **Current State** (tools, processes, team size)
+3. **Desired Outcome** (success metrics)
+4. **Decision Process** (stakeholders, timeline, criteria)
+5. **Budget Range**
+6. **Competition** (alternatives being considered)
+7. **Risks** (red flags, concerns)
+8. **Next Steps** (commitments made)
+
+Remember: Discovery is where deals are won or lost. Master this, and closing becomes natural.

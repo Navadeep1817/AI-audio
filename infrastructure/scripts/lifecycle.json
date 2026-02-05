@@ -1,0 +1,12 @@
+{
+  "Rules": [
+    {
+      "ID": "DeleteOldAudio",
+      "Status": "Enabled",
+      "Prefix": "audio-uploads/",
+      "Expiration": {
+        "Days": 7
+      }
+    }
+  ]
+}
